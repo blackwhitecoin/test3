@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Blackwhitecoin
+Comment=Blackwhitecoin P2P Cryptocurrency
+Comment[fr]=Blackwhitecoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Blackwhitecoin, eşten eşe kriptografik sanal para birimi
+Comment[es]=Blackwhitecoin, una criptomoneda P2P
+Exec=/usr/bin/blackwhitecoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/blackwhitecoin;
+Categories=Office;
